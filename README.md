@@ -14,9 +14,9 @@ Live site: https://megansolly.github.io
 - **Description:** A database and Java application system to manage drone deliveries and community equipment rentals.  
 - **GitHub:** [Equipment Renting Database Repository](https://github.com/megansolly/Equipment-Renting-Database)  
 
-### 3. [Another Project]
-- **Description:** Brief description of the project.  
-- **GitHub:** Repository link  
+### 3. Cinema Revenue Analysis
+- **Description:** Analyzes factors that influence a movie's box office revenue, including budget, genre, director, runtime, and audience ratings, providing insights for studio executives on investment decisions.
+- **GitHub:** [Cinema Revenue Analysis Repository](https://github.com/megansolly/Cinema-Revenue-Analysis)   
 
 ---
 
@@ -24,7 +24,9 @@ Live site: https://megansolly.github.io
 - HTML, CSS, JavaScript 
 - Database design and SQL  
 - Java programming and application development  
-- Optimization algorithms and problem-solving  
+- Optimization algorithms and problem-solving
+- Data analysis and statistical modeling using R
+- Exploratory Data Analysis (EDA), data visualization, linear regression, and model selection
 
 ---
 
